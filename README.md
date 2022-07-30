@@ -1,4 +1,4 @@
-##🔮 TWITHANOS 🔮
+## 🔮 TWITHANOS 🔮
 
 This script will soft-block\* a random half of your Twitter followers. Inspired by MCU character Thanos, who ... well you know.
 
@@ -21,6 +21,8 @@ Several reasons (non-exhaustive list)  :
 * The Python libraries `json`, `twitter` and `random`
 
 ## User Manual
+
+**WARNING : There is NO way to undo what this script does, except politely asking each softblocked person to follow you back. Be very careful what you do when manipulating this script !**
 
 Once you've cloned this repo, create a `credentials` file next to the `twithanos.py` file. `credentials` should have the following JSON structure :
 
